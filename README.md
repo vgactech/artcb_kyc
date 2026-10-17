@@ -1,1 +1,0 @@
-# atelier-model-thinking-kyc
